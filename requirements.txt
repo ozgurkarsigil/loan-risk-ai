@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pandas
+scikit-learn
+joblib
+mysql-connector-python
+python-dotenv
+requests
+langchain
+langgraph
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
